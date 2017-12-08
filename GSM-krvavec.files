@@ -1,0 +1,7 @@
+src/Makefile
+src/GSM-krvavec.cpp
+src/GSM-krvavec.h
+
+Arduino-mk-Digispark-master/Arduino.mk
+README
+Arduino-Makefile/Arduino.mk
